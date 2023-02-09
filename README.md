@@ -1,8 +1,8 @@
-# [LearningCurve](https://www.statistics-learning-curve.com)
+# LearningCurve
 
-You can find here the code from the Learning Curve website.
+### Code from the [Learning Curve website](https://www.statistics-learning-curve.com)
 
 
-StatsAtWork: Rmarkdown files from the same name section.
+**StatsAtWork**: Rmarkdown files from the statistics at work section.
 
-Upper case folder: notebook files from the modelling section.
+**Modelling**: notebook files from the modelling section.
